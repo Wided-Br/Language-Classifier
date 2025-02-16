@@ -1,0 +1,2 @@
+# Language Classification (Daridja, English, French) with ML
+This project classifies text into **Daridja (Algerian slang)**, **English**, and **French** using **Naïve Bayes**, **SVM**, **Random Forest**, **Logistic Regression**, and **Decision Tree**. The dataset contains **2,030** manually collected sentences. Grid Search is used for hyperparameter tuning, and models are saved as *.pkl* files for reuse.
