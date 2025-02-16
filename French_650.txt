@@ -1,0 +1,650 @@
+Expliquer les requêtes suivantes
+Tables relationnelles utilisant un type utilisateur.
+Ecole Supérieure en Sciences et Technologies de l’Informatique et du Numérique
+Décrire le résultat des requêtes SQL suivantes.
+Il vous est demandé d’implémenter une base de données 
+correspondante au schéma conceptuel ci-dessous 
+Qui décrit la gestion simplifiée des enseignements.
+la salle contient un vidéoprojecteur.
+L’attribut machine de TD prend la valeur.
+Créer les types correspondant à ce diagramme UML.
+Créer les tables objet, et orientation.
+Insérer le cours et les types.
+Code d’enseignement et numéro de salle
+Pour les enseignements nécessitant un vidéoprojecteur.
+Et affectés à une salle qui n’en dispose pas.
+Nombre d’enseignements différents par salle.
+On souhaite implémenter une base de données.
+Compétitions internationales multisports (type jeux olympiques).
+Du point de vue des contrôles antidopage. 
+Le schéma SQL3 de cette base de données est le suivant :
+Ajouter à ce schéma les contraintes d’intégrité nécessaires.
+Trouver le nombre de contrôles positifs par athlète.
+Écrire les requêtes SQL3 permettant de :
+Soit le schéma objet ci-après.
+(il n’y a pas deux marques de même nom et tous les numéros sont uniques dans la base).
+On décide d’ajouter au voilier décrit à la question précédente.
+Donnez le code nécessaire pour réaliser cette opération.
+Insérer tous les n-uplets nécessaires.
+Création B-arbre sur la table Film.
+avec les 16 lignes du tableau ci-dessous
+qu'ils seront utilisés pour l’indexation.
+Les deux facteurs sont la fiabilité et la sécurité,
+et ils ont le même degré d’importance.
+Spécifications et analyse
+Une Conception générale
+Une Conception détaillée
+Réalisation et test d'intégration
+Étapes sont clairement distinguées.
+Retours-arrière qui peuvent être coûteux (effect tunnel).
+Les coûts peuvent augmenter en raison des itérations (plus complexes à gérer).
+le prototype non-jetable
+Les risques associés à l’approche 1 sont :
+c’est un processus de reflexion pour la résolution
+l’ajout de nouveaux besoins sera plus facile
+la durée de vie doit être importante
+Réutiliser le noyau du logiciel.
+Bon courage
+la tête, les épaules, les genoux, et les doigts.
+plusieurs modifications vont être apportées
+modifications continues (maintenance).
+Une spécification d’interface
+Une spécification opérationnelle
+une séquence est une sous séquence d’une autre
+Si x alors y sinon z.
+Bonjour, comment ça va ?
+ça va bien ?
+Quoi de neuf ?
+Combien ça coûte ?
+Comment cela marche ?
+As tu déja essayé ce produit ?
+Comment tu le trouve ?
+localiser les erreurs (grâce à la forte cohésion).
+Peut être oui, et peut être non.
+Projet complexe et/ou critique avec risques.
+Je veux aller à la salle de bain.
+S'il vous plaît, comment aller à la banque ?
+Où se trouve t-il ?
+Il est où le bonheur, il est où ?
+D'où la conclusion qu'on a tiré.
+Coucou les gens.
+Il a bien fait de remarquer cet erreur.
+Qu'est ce qui ce passe t-il ?
+La flemme.
+Les femmes d'abord.
+Dieu a crée les hommes et les femmes.
+On a atteint 8 milliard dans la planète.
+Le globe terrestre.
+Les palesténiens vivent dans des conditions misérables.
+L'adjectif suit son nom en nombre et en genre.
+Un cheval au singulier, les chevaux au pluriel.
+Un coiffeur au masculin, et une coiffeuse en féminin.
+Mon grand-père a 10 vaches, 20 agneaux, et 30 poulets.
+Il était une fois ...
+Dans un pays très loin,
+1000 et une nuits.
+Quatre-vingts dix-septs
+Soixante six-mille et cinq-cents quarante trois.
+Maman, j'ai faim !
+Papa, j'ai soif !
+Mais Marrie, que fait tu ici ?
+Ils sont où tes parents, jeune-homme ?
+Il était un enfant très talentueux.
+Ce n’est pas obligatoire, on peut faire l’expérience sans s’inscrire…
+Il pleut.
+Quelle heure est-il madame titile ?
+Il est moins quart, madame placard.
+J'ai un lapin, une tortue et un poussin à la maison.
+Nous avons un très grand jardin.
+Jean a deux garçon et une fille.
+Son mandat durera 5 ans.
+En 2017, premier tour des élections est fixé au dimanche 23 Avril.
+Et le second tour aura lieu le dimanche 7 Mai. 
+Eh oui, c’est toujours un dimanche !
+Il est devenu un père.
+Elle est fière de ses petits garçons.
+Une catastrophe naturelle.
+Dieu merci.
+Ouest France (en fait, le plus grand journal régional français).
+Les maladies infectueuses se propagent très vite.
+1 saut, 2 pas, 3 sauts, 2 pas.
+Le garçon va à l'école.
+Le maçon contruit la maison avec du ciment.
+Une conte de fées.
+La fenêtre s'ouvre soudainement ...
+Les petits poissons dans l'eau nagent, nagent, nagent, nagent.
+Ah les crocodiles.
+Il était toujours le premier dans sa classe.
+L'éléphant est un très grand animal.
+Il y a des cheveux chatins, noirs, roux et marrons.
+Il avait une barbe très longue.
+Pourquoi y a-t-il 2 tours ?
+Il fait très chaud !
+Je ne peux pas respirer !
+Il fait très froid !
+e que j’aime particulièrement à propos de la tour Eiffel
+Elle est trop belle.
+à chaque qu'elle pense à lui
+C’est que c’est le monument de Paris le plus engagé.
+En 2015 par exemple,
+Une fois arrivés au 2ème, quel bonheur!
+Les larmes de ses yeux n'ont jamais arrêtés de couler.
+S'il vous plaît monsieur, comment aller à la forêt ?
+Le petit chaperon rouge.
+Les couleurs de l'arc en ciel sont: le rouge, l'orange, le jaune, le vert, le blue et le violet.
+Une série chronologique.
+La batterie est faible.
+Phénomènes d’attente: processus de naissance et de mort.
+L’introduction d’un processus stochastique défini de façon appropriée.
+De tels phénomènes sont naturellement étudiés en biologie, en démographie et en sociologie.
+Le régime stationnaire.
+Les adresses MAC comportent 6 octets (48 bits).
+Elles sont exprimées à l'aide de douze chiffres hexadécimaux.
+Les verbes auxilières sont: être et avoir.
+Exemple : 00-60-2F-3A-07-BC.
+Quel est votre numéro de téléphone ?
+OUI (Organizational Unique Identifier).
+Adressage IPv4 (logique).
+Une adresse est codée sur 32 bits ( 4 octets ).
+Ce nombre décimal représente une valeur entre 0 à 255.
+Chaque 8 bits de l’adresse représente un nombre décimal
+Nombre d'hôtes par réseau (adresses utilisables).
+L'hôpital se trouve à 200m d'ici.
+Un système d'exploitation peut être vu comme un programme.
+Comment peut-il être méchant comme ça ?
+Comment ça va aujourd'hui ?
+Les étudiants apprécient l'éducation de qualité.
+Mon ami français est très sympa.
+J'adore les croissants au petit-déjeuner.
+Où est-ce que tu as mis tes clés ?
+L'été dernier, nous avons visité Paris.
+Il fait froid, n'est-ce pas ?
+Quelle est ta chanson préférée ?
+L'écrivain a utilisé des mots français dans son roman.
+Je préfère le café avec un peu de lait.
+C'est une journée ensoleillée.
+As-tu déjà goûté une baguette fraîche ?
+Les oiseaux chantent dans le jardin.
+Quand est-ce que tu rentres à la maison ?
+Elle a un accent charmant.
+J'aimerais visiter la Côte d'Azur un jour.
+Pourquoi ne pas essayer la cuisine française ce soir ?
+Le film était captivant de bout en bout.
+La tour Eiffel est magnifique la nuit.
+Il faut prendre le train pour aller là-bas.
+Les montagnes sont recouvertes de neige.
+C'était une expérience inoubliable.
+Quel est ton plat français préféré ?
+J'ai acheté une nouvelle robe aujourd'hui.
+À quelle heure est le rendez-vous ?
+Nous devrions essayer ce restaurant français.
+Il est important de bien dormir la nuit.
+Pourquoi es-tu si énervé ?
+Les couleurs de l'automne sont splendides.
+Tu devrais lire ce livre fascinant.
+Est-ce que tu parles français couramment ?
+Les éclairs illuminent le ciel.
+Où sont passées mes lunettes de soleil ?
+C'est une journée ensoleillée et chaude.
+Comment s'appelle ce musée ?
+J'aime les films français romantiques.
+Pourquoi ne pas essayer un croissant au chocolat ?
+Il est difficile de prononcer certains mots français.
+La cuisine française est délicieuse.
+Quel est ton artiste français préféré ?
+Où puis-je trouver un bon café ?
+Il faut visiter le Louvre à Paris.
+Les gens célèbrent la fête nationale en juillet.
+La musique française a une mélodie unique.
+Pourquoi ne pas apprendre le français ?
+C'était une journée pluvieuse et froide.
+Quelle est la capitale de la France ?
+Les rues de Paris sont pleines de vie.
+Il est important de pratiquer une langue régulièrement.
+Le dîner était exquis hier soir.
+Est-ce que tu aimes les films d'animation français ?
+La vie est belle, n'est-ce pas ?
+Les croissants sont une spécialité française.
+Pourquoi as-tu l'air fatigué ?
+Où est-ce que tu as trouvé ce livre intéressant ?
+Les étoiles brillent dans le ciel nocturne.
+C'était un jour férié en France.
+Pourquoi ne pas essayer un vin français ?
+La mode française est élégante et intemporelle.
+Il est important de comprendre la culture française.
+Quelle est ta destination de vacances préférée ?
+Les éclats de rire résonnent dans la pièce.
+J'aimerais visiter la Provence un jour.
+Pourquoi ne pas essayer la pâtisserie française ?
+C'est une belle journée pour une promenade.
+Les films français ont souvent des scénarios captivants.
+Où as-tu appris à cuisiner comme ça ?
+Il est essentiel de respecter les coutumes locales.
+Le français est une langue élégante.
+Comment s'est passée ta journée ?
+Les musées français regorgent d'histoire.
+Pourquoi ne pas apprendre quelques expressions françaises ?
+Le soleil se couche lentement à l'horizon.
+C'était une expérience culinaire exceptionnelle.
+Quel est ton sport français préféré ?
+Où as-tu acheté ce magnifique chapeau ?
+Il est toujours bon de rire un peu.
+Les rivières françaises sont paisibles.
+Pourquoi ne pas écouter de la musique française ce soir ?
+C'est la première fois que je visite ce pays.
+Comment trouve-tu la cuisine française ?
+Les rues de la vieille ville sont charmantes.
+Pourquoi ne pas essayer une recette française ?
+Il est agréable de prendre un café en terrasse.
+Quel est le mot français le plus difficile à prononcer ?
+J'aimerais visiter les vignobles de Bordeaux.
+La cuisine française offre une variété de fromages.
+Pourquoi ne pas essayer de faire du vélo en France ?
+Les parcs sont parfaits pour une journée en plein air.
+Comment trouves-tu la culture française ?
+Les éclats de rire des enfants résonnent dans la cour.
+Pourquoi ne pas essayer une nouvelle recette française ?
+Il est important de respecter les traditions.
+Les cafés parisiens sont pleins de caractère.
+Quel est ton monument français préféré ?
+C'est une journée pluvieuse, idéale pour rester à l'intérieur.
+Les éclairs zèbrent le ciel pendant l'orage.
+Pourquoi ne pas essayer de cuisiner une spécialité française ?
+Les châteaux français sont chargés d'histoire.
+Il est agréable de se promener le long de la Seine.
+Les étoiles scintillent dans la nuit étoilée.
+Pourquoi ne pas essayer de faire du ski dans les Alpes ?
+La cuisine française est réputée pour sa délicatesse.
+C'est une belle journée ensoleillée, parfaite pour une sortie.
+Les éclats de rire des enfants réchauffent le cœur.
+Pourquoi ne pas apprendre quelques expressions françaises utiles ?
+Les éclairs illuminent le ciel sombre.
+Quelle est ta région française préférée ?
+C'est une journée froide, idéale pour une tasse de chocolat chaud.
+Les étoiles filantes traversent le ciel nocturne.
+Pourquoi ne pas essayer un plat traditionnel français ce soir ?
+Les cascades dans les montagnes sont impressionnantes.
+La cuisine française utilise des ingrédients frais.
+C'est une journée pluvieuse, parfaite pour la lecture.
+Les éclats de rire des enfants résonnent dans la cour de récréation.
+Pourquoi ne pas essayer de visiter un marché français ?
+Les châteaux de la Loire sont magnifiques.
+Les étoiles brillent comme des diamants dans le ciel.
+Comment trouves-tu la poésie française ?
+Il est agréable de prendre un repas en plein air.
+Les éclairs zèbrent le ciel pendant l'orage d'été.
+Pourquoi ne pas essayer de danser sur de la musique française ?
+Les éclats de rire sont la meilleure thérapie.
+Quelle est ta ville française préférée ?
+C'est une journée ensoleillée, parfaite pour une balade à vélo.
+Les étoiles scintillent dans le ciel étoilé.
+Pourquoi ne pas essayer de préparer un dessert français ?
+Les rivières françaises serpentent à travers la campagne.
+La cuisine française offre une explosion de saveurs.
+Il est agréable de passer du temps avec des amis.
+Les éclairs zèbrent le ciel pendant l'orage d'été.
+Pourquoi ne pas essayer de peindre un paysage français ?
+Les éclats de rire des enfants sont contagieux.
+Quelle est ta région vinicole française préférée ?
+C'est une journée ensoleillée, parfaite pour une séance photo.
+Les étoiles brillent dans la nuit étoilée.
+Pourquoi ne pas essayer une nouvelle recette de cuisine française ?
+Les éclats de rire des enfants résonnent dans la cour d'école.
+Les châteaux médiévaux français sont pleins de mystère.
+Il est agréable de flâner dans les marchés français.
+Les éclairs illuminent le ciel pendant l'orage.
+Pourquoi ne pas essayer de faire du vélo le long de la côte française ?
+Les éclats de rire sont le meilleur remède.
+Quelle est ta région française préférée pour les vacances ?
+C'est une journée froide, idéale pour une soirée au coin du feu.
+Les étoiles scintillent dans le ciel étoilé.
+Pourquoi ne pas essayer de préparer un plat français ce soir ?
+Les éclats de rire des enfants remplissent l'air.
+Les éclairs zèbrent le ciel pendant la tempête.
+Il est agréable de passer du temps dans les cafés français.
+Les cascades dans les montagnes sont un spectacle grandiose.
+Pourquoi ne pas essayer de visiter un village français pittoresque ?
+Les éclats de rire réchauffent le cœur.
+Quelle est ta région française préférée pour la randonnée ?
+C'est une journée ensoleillée, idéale pour une sortie en plein air.
+Les étoiles brillent dans le ciel nocturne.
+Pourquoi ne pas essayer une nouvelle recette de pâtisserie française ?
+Les éclats de rire sont une musique joyeuse.
+Les châteaux médiévaux français sont chargés d'histoire.
+Il est agréable de se promener dans les jardins français.
+Les éclairs illuminent le ciel pendant l'orage d'été.
+Pourquoi ne pas essayer de déguster du vin dans une cave française ?
+Les éclats de rire des enfants résonnent dans la cour de récréation.
+Les plages de la Côte d'Azur sont magnifiques.
+Quelle est ta région française préférée pour les sports d'hiver ?
+C'est une journée ensoleillée, parfaite pour un pique-nique.
+Les étoiles scintillent dans le ciel étoilé.
+Pourquoi ne pas essayer une nouvelle recette de cuisine française ?
+Les éclats de rire des enfants sont un trésor précieux.
+Les rivières françaises offrent des paysages paisibles.
+Il est agréable de flâner dans les marchés français.
+Les éclairs zèbrent le ciel pendant l'orage d'été.
+Pourquoi ne pas essayer de faire du vélo le long des canaux français ?
+Les éclats de rire résonnent dans la salle.
+Quelle est ta région française préférée pour les vacances d'été ?
+C'est une journée froide, idéale pour une soirée au coin du feu.
+Les étoiles brillent dans le ciel nocturne.
+Pourquoi ne pas essayer une nouvelle recette de cuisine française ?
+Les éclats de rire des enfants résonnent dans la cour d'école.
+Les châteaux médiévaux français sont pleins de mystère.
+Il est agréable de flâner dans les marchés français.
+Les éclairs illuminent le ciel pendant l'orage.
+Pourquoi ne pas essayer de faire du vélo le long de la côte française ?
+Les éclats de rire sont le meilleur remède.
+Quelle est ta région française préférée pour les sports d'hiver ?
+C'est une journée ensoleillée, parfaite pour une sortie en plein air.
+Les étoiles brillent dans le ciel nocturne.
+Pourquoi ne pas essayer une nouvelle recette de pâtisserie française ?
+Les éclats de rire sont une musique joyeuse.
+Les châteaux médiévaux français sont chargés d'histoire.
+Il est agréable de se promener dans les jardins français.
+Les éclairs illuminent le ciel pendant l'orage d'été.
+Pourquoi ne pas essayer de déguster du vin dans une cave française ?
+Les éclats de rire des enfants résonnent dans la cour de récréation.
+Les plages de la Côte d'Azur sont magnifiques.
+Quelle est ta région française préférée pour les sports d'hiver ?
+C'est une journée ensoleillée, parfaite pour un pique-nique.
+Les étoiles scintillent dans le ciel étoilé.
+Les éclats de rire des enfants sont un trésor précieux.
+Bonjour à tous !
+Merci beaucoup.
+Comment ça va ?
+Très bien, et toi ?
+C'est fantastique !
+Quel temps fait-il ?
+J'adore Paris.
+À bientôt !
+Excusez-moi.
+Pas de problème.
+C'est délicieux !
+Où est la gare ?
+Bonne journée !
+Je suis fatigué.
+Tu parles français ?
+Oui, un peu.
+Non, pas du tout.
+C'est magnifique.
+Quel est ton nom ?
+J'aime la musique.
+À la prochaine.
+Bon appétit !
+Il fait chaud.
+J'habite à Lyon.
+C'est difficile.
+C'est facile.
+Je ne sais pas.
+C'est incroyable !
+Quelle heure est-il ?
+Bonne nuit !
+J'adore voyager.
+Ça va bien.
+C'est génial !
+Je t'aime.
+C'est intéressant.
+C'est ennuyeux.
+Où est la plage ?
+C'est dangereux.
+À plus tard.
+C'est fantastique !
+J'aime lire.
+Il pleut.
+C'est drôle.
+Quel est ton sport préféré ?
+C'est triste.
+J'adore la nature.
+C'est trop cher.
+Je suis perdu.
+C'est la vie.
+C'est bizarre.
+C'est cool !
+Où sont les toilettes ?
+C'est difficile à croire.
+C'est un plaisir.
+Je suis occupé.
+C'est fantastique !
+C'est une surprise.
+J'aime la plage.
+C'est merveilleux.
+Ça suffit.
+C'est dommage.
+C'est une bonne idée.
+C'est formidable !
+C'est magnifique !
+C'est étrange.
+Je suis content.
+C'est interdit.
+C'est parfait.
+C'est trop mignon.
+C'est important.
+C'est étonnant.
+C'est fou !
+C'est agréable.
+C'est impressionnant.
+C'est génial !
+C'est difficile à croire.
+C'est magique.
+C'est passionnant.
+C'est formidable !
+C'est incroyable.
+C'est un rêve.
+C'est délicieux.
+La vie de tous les jours,
+c’est souvent ce qu’on appelle la routine. 
+Pour beaucoup d’entre nous, 
+cette routine peut se résumer en trois mots : métro, boulot, dodo. 
+“métro, boulot, dodo”, c’est une expression française qui veut dire que tous les jours, 
+on fait la même chose encore et encore.
+Chaque jour, on se lève tôt le matin. 
+On se brosse les dents, on se prépare, on s’habille, on prend son petit déjeuner. 
+Pour certains, si vous avez des enfants, vous devez aussi les préparer, 
+les habiller, leur donner un petit déjeuner 
+et les déposer à l’école. 
+Si vous avez un ou plusieurs chiens, 
+il faut les promener avant de partir au travail.
+Après ça, il est temps de se rendre au travail. 
+Pour aller au travail on peut marcher ou alors conduire 
+ou utiliser les transports en commun, comme le métro, le bus, le train. 
+On passe ensuite la majeure partie de notre journée au travail, 
+en faisant des tâches et remplissant nos obligations professionnelles. 
+Même notre pause déjeuner est souvent la même. 
+On mange souvent avec les mêmes collègues. 
+Si vous êtes comme moi, 
+vous mangez aussi souvent la même chose pour le déjeuner.
+Après le travail, il est temps de faire des achats, 
+faire des courses, aller chercher les enfants à l’école, 
+peut-être aller à la salle de sport ? 
+Encore une fois, cela dépend si on a des enfants ou non. 
+Ça dépend aussi si on est introverti ou extraverti. 
+Les extravertis aiment passer du temps à l’extérieur. 
+Les introvertis préfèrent rentrer chez eux aussi vite que possible.
+Quand on est finalement à la maison, 
+il y a toujours des choses à faire. 
+Notre journée de travail n’est pas tout à fait terminée. 
+Il y a toujours des tâches ménagères à faire. 
+Il faut faire la lessive, la vaisselle ou vider le lave-vaisselle. 
+Si on n’a rien de prêt pour le diner, 
+il faut aussi préparer à manger.
+Et si on ne fait pas tout ça un petit peu tous les jours, 
+c’est vite le chaos dans la maison.
+La vie de tous les jours, 
+ce n’est pas seulement des obligations 
+mais aussi certaines choses qu’on choisit pour soi-même. 
+Toutes les activités qu’on fait pour soi, 
+comme le sport, la lecture, les soins de la peau, le maquillage. 
+Tout ça, ça fait aussi partie de notre routine.
+La vie de tous les jours, c’est souvent répétitif, 
+mais c’est aussi rempli de petits moments de bonheur et de joie. 
+Pour ne pas être déprimé par le métro boulot dodo, 
+c’est bien de prendre le temps d’apprécier les petits moments.
+Cela peut être partager un repas en famille, 
+discuter avec nos amis, 
+ou simplement se détendre en lisant un livre 
+ou en regardant notre émission préférée à la télévision.
+En fin de compte, 
+la routine ça nous permet d’être plus productif 
+car on sait tout ce qu’on doit faire chaque jour.
+Alors dites-moi, 
+est-ce que vous aimez la routine ? 
+Est-ce que vous pensez que cela vous rend plus productif ?
+Dites-moi tout en commentaires.
+Laissez-moi vous raconter l’histoire d'un Poulet. 
+Ses amis l’appellent Petit Poulet. 
+Petit Poulet vit dans une petite maison de poulet normale, 
+dans une petite ville normale.
+Il n’est ni grand, ni petit. 
+Il n’est ni gros, ni maigre. 
+Il n’est ni intelligent ni stupide. 
+Petit Poulet est un poulet tout à fait normal.
+Par une matinée tout à fait normale, 
+Petit Poulet mange son petit-déjeuner dans la cuisine. 
+Il aime les toasts avec du beurre et le café à la crème.
+Il lit les nouvelles. 
+Il voit une histoire terrifiante avec un titre terrifiant, 
+qui dit : LE CIEL EST EN TRAIN DE TOMBER !
+Il a si peur qu’il laisse tomber son toast dans son café. Plouf !
+Le ciel est en train de tomber ! 
+LE CIEL EST EN TRAIN DE TOMBER ! 
+Je dois prévenir tout le monde ! crie Petit Poulet.
+D’abord il envoie l’histoire par courriel à ses mille amis les plus proches. 
+Puis il court dans la rue pour prévenir tous les autres.
+La première personne qu’il rencontre dans la rue est Pauline la poule. 
+Elle revient du supermarché.
+Bonjour, Petit Poulet ! dit Pauline.
+Où vas-tu ? Pourquoi as-tu si peur ?
+Vraiment ? Comment le sais-tu ? demande Pauline.
+Je l’ai vu sur Internet ! dit Petit Poulet.
+Bon sang ! Ça doit être vrai ! dit Pauline.
+Allons-y !
+Petit Poulet et Pauline la poule courent alors ensemble sur la route vers le marais.
+En arrivant au marais, ils rencontrent Carine la cane. 
+Elle est en train de se baigner.‍
+Salut, vous deux ! dit Carine. 
+Où allez-vous ? Pourquoi avez-vous si peur ?
+Disent Petit Poulet et Pauline ensemble.
+Vraiment ? Comment le savez-vous ? demande Carine.
+Je l’ai vu sur Internet ! dit Petit Poulet.
+Oh non ! Ça doit être vrai !
+Alors Petit Poulet, Pauline la poule.
+Carine la cane courent ensemble sur la route vers la ferme.
+En arrivant à la ferme, ils rencontrent Louise l’oie.
+Elle lit des poèmes pour Roger le pigeon.
+Salut tout le monde ! dit Louise. 
+Où allez-vous ? Pourquoi avez-vous si peur ?
+crient-ils tous ensemble.
+Vraiment ? Comment le savez-vous ? demande Roger.
+NOUS L’AVONS VU SUR INTERNET.
+Bonté divine ! Ça doit être vrai ! 
+On n’a pas le temps pour la poésie.
+Et Petit Poulet, Pauline la poule, 
+Carine la cane, Louise l’oie et Roger le pigeon courent ensemble sur la route vers la ville.
+Sur la rue principale, ils rencontrent Gérard le renard. 
+Gérard est assis dans un café, en train d’écrire sur son laptop.‍
+LE CIEEEEEEL EST EN TRAIN DE TOOOOOOMBER ! 
+Ouah ! Alors ça doit être vrai ! dit le renard. 
+Mais ne vous inquiétez pas, les amis, je connais la cachette parfaite. 
+Suivez-moi !
+Gérard mène tout le monde à travers le village.
+Le long de la route, à travers le champ et en haut d’une colline. 
+Au sommet de la colline il y a une grande grotte sombre.
+Il y a assez de place pour tout le monde !
+Le ciel ne nous tombera pas dessus ici. 
+Nous sommes en sécurité.
+Le lendemain matin, Petit Poulet et ses amis ont disparu. 
+La grotte est vide.
+Où sont-ils allés ? 
+Nous ne le savons pas vraiment. 
+Mais je vais vous dire une chose : Gérard le Renard est très heureux. 
+Il a le ventre bien gros et bien rond.
+Il s’assoit sous un arbre, sort son ordinateur portable et recommence à écrire.
+Mon étudiante par Skype Robyn est Australienne.
+Voici ses devoirs: un déjeuner de Noël typiquement australien.
+En général, il fait très chaud le jour de Noël en Australie. 
+Le soleil brille et il fait beau.
+Certaines maisons sont climatisées mais chez moi n’ai pas l’air conditionné. 
+Alors l’année dernière nous avons déjeuné dans le jardin.
+Tout le monde était en short et en T-shirt.
+Le mois dernier, j’ai cuisiné le gâteau de Noël. 
+En général, ce gâteau contient beaucoup de fruits secs et du rhum ou du porto. 
+Il faut le faire en avance. 
+Pour le gâteau pavlova, j’utilise de la crème fouettée, une mangue, des fraises, une banane, des fruits de la passion et des kiwis.
+La veille de Noël, je fais des courses. 
+Je dois acheter des crevettes, du poisson, du poulet, des fruits, des légumes et le jambon de Noël.
+Aussi, j’achète de la glace à la vanille et du pain. 
+Je fais une glace de Noël, elle est rouge, verte et blanche.
+J’ai presque oublié : j’achète beaucoup de vin et de champagne, car il fait très chaud et nous avons très soif.
+À Moi Paris.
+Je mets la nappe de Noël sur la table. 
+Avant le déjeuner, je mets les assiettes, les verres, les fourchettes, les couteaux et les cuillères sur la table. 
+Elle est très jolie.
+Pour le déjeuner de Noël nous n’avons pas de nourriture chaude. 
+Nous préférons les fruits de mer, les poissons et le jambon, le tout froid avec de la salade.
+Dans la salade, il y a de la laitue, des tomates, des pommes de terre et du poivron. 
+Je fais aussi des carottes au miel et des haricots verts aux amandes.
+Nous buvons de la bière ou du vin ou du champagne. 
+Mes parents boivent du thé. À Noël nous mangeons toujours trop.
+Après les desserts, nous nous reposons dans le salon.
+Et vous ?
+Qu’est-ce que vous faîtes pour Noël ? 
+Est-ce qu’il y a des traditions et des plats spéciaux dans votre pays ? 
+Laissez un commentaire ci-dessous !
+Joyeux Noël à vous !
+Les gens qui me connaissent savent que j’adore écouter la radio. 
+J’écoutais la radio pendant que je faisais la vaisselle hier midi. 
+C’était une émission sur la station France Inter, une station de radio nationale. 
+L’émission s’appelle ‘CO2 mon amour’. 
+C’est une émission au sujet de l’environnement.
+Où on discute des solutions écologiques aux problèmes tels que la pollution.
+Le réchauffement de la planète, etc.
+J’ai entendu un article très intéressant sur l’obsolescence programmée. 
+Déjà, j’aimerais réécouter cela sur le site internet de France Inter quand j’aurai le temps.
+Mais après ça, vers la fin de l’émission.
+La fête date de 1982.
+Quand le ministre de la culture de l’époque l’a mise en place le 21 juin de cette année-là. 
+Il y a eu quelque chose qui m’a fait encore plus réfléchir. 
+Une semaine sans plastique.
+A la fin de l’émission le présentateur passe quelques messages.
+Puis à minuit, on allume la grande fouée de la St Jean.
+Qu’il a reçus sur le répondeur de France Inter. 
+Et voilà, quelqu’un y avait laissé un message très intéressant. 
+il y a 120 pays dans le monde qui ont repris l’idée de la Fête de la Musique.
+C’est un monsieur de l’association ‘Tous dans l’même bateau’ 
+Basée aux Sables d’Olonne dans le département de la Vendée dans l’ouest de la France.
+Son association lance un défi au public. 
+Ils aimaient tous les deux manger beaucoup de petits poissons.
+Il aimait la façon gracieuse qu’elle avait de nager dans l’eau.
+L’oiseau aimait le beau sourire de la baleine.
+Durant l’été, l’oiseau et la baleine se retrouvaient dans la baie.
+Je cite :  Quel est le principe ? 
+C’est très simple et compliqué à la fois ! 
+Pendant une semaine.
+Le volontaire s’engage à ne pas utiliser ou acheter des produits emballés (plastique, cellophane…), 
+à ne pas accepter des sacs plastiques à usage unique. 
+En s’inscrivant, le volontaire accepte de relever le défi. 
+Il n’y a rien à gagner, rien à perdre. 
+La semaine peut être une réussite ou un échec.
+Tous les enfants aiment jouer.
+La patience est une vertu, elle mène à de meilleurs résultats.
+Mieux vaut prévenir que guérir, soyez proactif dans vos choix.
+Les petits ruisseaux font les grandes rivières.
+Qui sème le vent récolte la tempête.
+La vie est un voyage, profitez du trajet.
+L'union fait la force, ensemble on est plus fort.
+Il vaut mieux être seul que mal accompagné.
+Chaque nuage a une doublure argentée.
+On récolte ce que l'on sème.
+À quelque chose malheur est bon.
+L'habit ne fait pas le moine.
+Mieux vaut tard que jamais.
+On n'est jamais mieux servi que par soi-même.
+La vérité sort de la bouche des enfants.
+Les paroles s'envolent, les écrits restent.
+Qui trop embrasse mal étreint.
+On apprend de ses erreurs.
+Il n'y a pas de fumée sans feu.
+Chassez le naturel, il revient au galop.
+Chacun voit midi à sa porte.
